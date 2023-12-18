@@ -1,5 +1,5 @@
 Что содержат папки: 
-"Images" - 
-"Data" - 
-"Code" - 
-"Article" - 
+"Images" - изображения 
+"Data" - датасет
+"Code" - код 
+"Article" - статья
